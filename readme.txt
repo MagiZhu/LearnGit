@@ -1,6 +1,6 @@
 Git is a distributed version control system.
 Git is free.
 Change for dev branch.
-Cahnge for master branch.
-Change for feature1 brach.
+Change for master branch.
+Change for feature1 branch.
 Change for dev1 branch.
